@@ -1,0 +1,6 @@
+{
+    "name": "codebase-tools/php-parser",
+    "require": {
+        "nikic/php-parser": "^5.5"
+    }
+}

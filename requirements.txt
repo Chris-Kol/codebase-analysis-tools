@@ -1,0 +1,2 @@
+click >= 8.0.0  # For CLI interface
+php-ast >= 1.0.0  # For PHP parsing (if available)
